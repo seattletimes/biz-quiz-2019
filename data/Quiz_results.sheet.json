@@ -2,21 +2,26 @@
   {
     "min": 0,
     "max": 4,
-    "description": "You may have let your office dog pick the answers. Better luck next year!"
+    "description": "You may want to pay more attention. Start training for our 2018 Biz Quiz"
   },
   {
     "min": 5,
-    "max": 7,
-    "description": "You may be spending too much time writing code and not enough following business news."
+    "max": 8,
+    "description": "Not bad, but not up to your full potential!"
   },
   {
-    "min": 8,
-    "max": 10,
-    "description": "You may be powered by the hive-mind of Alexa."
+    "min": 9,
+    "max": 11,
+    "description": "You've been paying attention. A respectable job!"
   },
   {
-    "min": 11,
-    "max": 12,
-    "description": "You may be the next “shadow” or consigliere of Jeff Bezos."
+    "min": 12,
+    "max": 13,
+    "description": "You've got a solid grip on the business world. Fantastic job!"
+  },
+  {
+    "min": 14,
+    "max": 15,
+    "description": "You are awesome. Start writing our 2018 Biz Quiz"
   }
 ]

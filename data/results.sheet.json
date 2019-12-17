@@ -1,0 +1,22 @@
+[
+  {
+    "min": 0,
+    "max": 3,
+    "description": "You may want to pay more attention. Start training for our 2020 Biz Quiz"
+  },
+  {
+    "min": 4,
+    "max": 7,
+    "description": "Not bad, but not up to your full potential!"
+  },
+  {
+    "min": 8,
+    "max": 10,
+    "description": "You've been paying attention. A respectable job!"
+  },
+  {
+    "min": 11,
+    "max": 12,
+    "description": "You've got a solid grip on the business world. Fantastic job!"
+  }
+]

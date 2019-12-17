@@ -60,24 +60,24 @@
 
     <%= t.include("partials/_navBottom.html") %>
 
-  <script>
+    <script>
     <%
       var quizData = {};
-      json.Quiz_questions.forEach(function(q) {
+      json.questions.forEach(function(q) {
         quizData[q.id] = q;
       });
-      json.Quiz_answers.forEach(function(a, index) {
+      json.answers.forEach(function(a, index) {
         var id = a.id;
         if (!quizData[id].answers) { quizData[id].answers = [] }
         a.id = index;
         quizData[id].answers.push(a);
       });
-      for (var q in quizData) {
-        quizData[q].answers.forEach((a, i) => a.initial = String.fromCharCode(65 + i));
-      }
+      // for (var q in quizData) {
+      //   quizData[q].answers.forEach((a, i) => a.initial = String.fromCharCode(65 + i));
+      // }
     %>
     var quizData = <%= JSON.stringify(quizData) %>;
-    var resultsData = <%= JSON.stringify(json.Quiz_results) %>;
+    var resultsData = <%= JSON.stringify(json.results) %>;
     var configData = {
       title: "<%= json.project.title %>",
       description: "<%= json.project.description %>",

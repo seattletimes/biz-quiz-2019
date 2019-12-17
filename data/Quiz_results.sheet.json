@@ -1,0 +1,22 @@
+[
+  {
+    "min": 0,
+    "max": 4,
+    "description": "You may have let your office dog pick the answers. Better luck next year!"
+  },
+  {
+    "min": 5,
+    "max": 7,
+    "description": "You may be spending too much time writing code and not enough following business news."
+  },
+  {
+    "min": 8,
+    "max": 10,
+    "description": "You may be powered by the hive-mind of Alexa."
+  },
+  {
+    "min": 11,
+    "max": 12,
+    "description": "You may be the next “shadow” or consigliere of Jeff Bezos."
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "answer": "Columbus"
+  },
+  {
+    "id": 1,
+    "answer": "Toronto"
+  },
+  {
+    "id": 1,
+    "answer": "Minneapolis ",
+    "correct": "x"
+  },
+  {
+    "id": 1,
+    "answer": "Denver "
+  },
+  {
+    "id": 2,
+    "answer": "Denver"
+  },
+  {
+    "id": 2,
+    "answer": "Las Vegas ",
+    "correct": "x"
+  },
+  {
+    "id": 2,
+    "answer": "Los Angeles "
+  },
+  {
+    "id": 2,
+    "answer": "Portland "
+  },
+  {
+    "id": 3,
+    "answer": "Bellevue Square"
+  },
+  {
+    "id": 3,
+    "answer": "Northgate",
+    "correct": "x"
+  },
+  {
+    "id": 3,
+    "answer": "Pacific Place"
+  },
+  {
+    "id": 3,
+    "answer": "Southcenter"
+  },
+  {
+    "id": 4,
+    "answer": "$25"
+  },
+  {
+    "id": 4,
+    "answer": "$42"
+  },
+  {
+    "id": 4,
+    "answer": "$50",
+    "correct": "x"
+  },
+  {
+    "id": 4,
+    "answer": "$75"
+  },
+  {
+    "id": 5,
+    "answer": "Bill Gates"
+  },
+  {
+    "id": 5,
+    "answer": "Howard Schultz",
+    "correct": "x"
+  },
+  {
+    "id": 5,
+    "answer": "Jeff Bezos"
+  },
+  {
+    "id": 5,
+    "answer": "John Legere"
+  },
+  {
+    "id": 6,
+    "answer": "Agriculture products",
+    "correct": "x"
+  },
+  {
+    "id": 6,
+    "answer": "Processed foods"
+  },
+  {
+    "id": 6,
+    "answer": "Computer and electronic products"
+  },
+  {
+    "id": 6,
+    "answer": "Forest products"
+  },
+  {
+    "id": 7,
+    "answer": "Pledged to open more stores in underserved neighborhoods."
+  },
+  {
+    "id": 7,
+    "answer": "Sued the Philadelphia police department."
+  },
+  {
+    "id": 7,
+    "answer": "Closed its company-owned stores for an afternoon of racial-bias training.",
+    "correct": "x"
+  },
+  {
+    "id": 7,
+    "answer": "Gave the two men lifetime passes for free coffee."
+  },
+  {
+    "id": 8,
+    "answer": "Alaska"
+  },
+  {
+    "id": 8,
+    "answer": "Southwest and Alaska"
+  },
+  {
+    "id": 8,
+    "answer": "United and Alaska",
+    "correct": "x"
+  },
+  {
+    "id": 8,
+    "answer": "Alaska, Cascade Airways and Aeroamerica"
+  },
+  {
+    "id": 9,
+    "answer": "Allen Institute for Artificial Intelligence"
+  },
+  {
+    "id": 9,
+    "answer": "Allen Institute for Brain Science"
+  },
+  {
+    "id": 9,
+    "answer": "Vulcan Shipwreck Discovery Center",
+    "correct": "x"
+  },
+  {
+    "id": 9,
+    "answer": "Seattle Seahawks"
+  },
+  {
+    "id": 10,
+    "answer": 42000
+  },
+  {
+    "id": 10,
+    "answer": 100000
+  },
+  {
+    "id": 10,
+    "answer": 240000
+  },
+  {
+    "id": 10,
+    "answer": 350000,
+    "correct": "x"
+  },
+  {
+    "id": 11,
+    "answer": 12
+  },
+  {
+    "id": 11,
+    "answer": 29,
+    "correct": "x"
+  },
+  {
+    "id": 11,
+    "answer": 38
+  },
+  {
+    "id": 11,
+    "answer": 42
+  },
+  {
+    "id": 12,
+    "answer": "Google, then Apple"
+  },
+  {
+    "id": 12,
+    "answer": "Starbucks, then Amazon"
+  },
+  {
+    "id": 12,
+    "answer": "Costco, then Amazon"
+  },
+  {
+    "id": 12,
+    "answer": "Amazon, then Microsoft",
+    "correct": "x"
+  }
+]

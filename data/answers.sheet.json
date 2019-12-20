@@ -9,7 +9,7 @@
   },
   {
     "id": 1,
-    "answer": "Tableau Software, whose tools helps people make graphs and charts from enormous data sets without the need of a computer science Ph.D",
+    "answer": "Tableau Software, whose tools help people make graphs and charts from enormous data sets without the need of a computer science Ph.D.",
     "correct": "x"
   },
   {
@@ -18,7 +18,8 @@
   },
   {
     "id": 2,
-    "answer": "Ten years"
+    "answer": "Ten years",
+    "correct": "\n"
   },
   {
     "id": 2,
@@ -112,19 +113,19 @@
   },
   {
     "id": 8,
-    "answer": 8200
+    "answer": "8,200"
   },
   {
     "id": 8,
-    "answer": 17500
+    "answer": "17,500"
   },
   {
     "id": 8,
-    "answer": 50000
+    "answer": "50,000"
   },
   {
     "id": 8,
-    "answer": 96700,
+    "answer": "96,700",
     "correct": "x"
   },
   {
@@ -158,7 +159,7 @@
   },
   {
     "id": 10,
-    "answer": "Speed the completion of the region’s light rail system"
+    "answer": "Speed the completion of the region’s light-rail system"
   },
   {
     "id": 10,
@@ -184,7 +185,7 @@
   },
   {
     "id": 12,
-    "answer": "A line of women’s outdoor apparel\n"
+    "answer": "A line of women’s outdoor apparel"
   },
   {
     "id": 12,

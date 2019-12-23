@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "question": "Big Tech companies, including Amazon, face threats of antitrust actions from politicians across the political spectrum. When Microsoft faced a federal antitrust case, how long did it take from start to finish (end of the consent decree)? ",
-    "follow": "The case was filed in 1998, and the DOJ and Microsoft settled in 2002. The consent decree governing Microsoft’s conduct expired in 2011.",
+    "question": "Big Tech companies, including Amazon, face threats of antitrust actions from politicians across the political spectrum. When Microsoft faced a federal antitrust case, how long did it take from the start of the investigation to the end of the consent decree? ",
+    "follow": "The first Federal Trade Commission investigation began in 1990. The antitrust case was filed in 1998, and the DOJ and Microsoft settled in 2002. The consent decree governing Microsoft’s conduct expired in 2011.",
     "caption": "John Pinette, left, and Microsoft founder Bill Gates arrive at the federal courthouse in Salt Lake City in 2011 to testify in a $1 billion private antitrust lawsuit filed by the creator of WordPerfect. ",
     "photographer": "Jim Urquhart / AP",
     "credit": "x",
@@ -71,11 +71,12 @@
   },
   {
     "id": 9,
-    "question": "Delta Air Lines plans to use a controversial new technology with passengers on international flights departing Seattle-Tacoma International Airport. What’s the technology?\n",
-    "follow": "Delta, in partnership with U.S. Customs and Border Protection, plans to give travelers leaving for international destinations the option of having their faces scanned rather than handing over a passport and boarding pass in order to board a plane.",
+    "question": "The Port of Seattle Commission in December put a temporary halt on Delta Air Lines’ plans to use a controversial technology with passengers on international flights departing Seattle-Tacoma International Airport. What’s the technology?",
+    "follow": "Delta, in partnership with U.S. Customs and Border Protection, had planned to give travelers leaving for international destinations the option of having their faces scanned rather than handing over a passport and boarding pass in order to board a plane. Citing civil liberties concerns, the Commission enacted a moratorium on facial recognition and other biometric technologies until it could develop policies governing their use, a task that has eluded state and federal lawmakers.\n\n",
     "caption": "TSA agents check passengers' boarding passes and identification at Seattle-Tacoma International Airport.",
     "photographer": "Ted S. Warren / AP",
-    "credit": "x"
+    "credit": "x",
+    "link1": "https://www.seattletimes.com/business/boeing-aerospace/sea-tac-is-first-airport-to-resist-federal-push-for-facial-recognition-and-other-biometric-technologies/"
   },
   {
     "id": 10,
@@ -102,5 +103,8 @@
     "photographer": "Bettina Hansen / The Seattle Times",
     "credit": "x",
     "link1": "https://www.seattletimes.com/business/retail/costly-new-manhattan-emporium-is-not-just-a-wild-gamble-nordstrom-tells-investors/"
+  },
+  {
+    "question": "\n"
   }
 ]

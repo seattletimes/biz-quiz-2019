@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "question": "Big Tech companies, including Amazon, face threats of antitrust actions from politicians across the political spectrum. When Microsoft faced a federal antitrust case, how long did it take from start to finish (end of the consent decree)? ",
-    "follow": "The case was filed in 1998, and the DOJ and Microsoft settled in 2002. The consent decree governing Microsoft’s conduct expired in 2011.",
+    "question": "Big Tech companies, including Amazon, face threats of antitrust actions from politicians across the political spectrum. When Microsoft faced a federal antitrust case, how long did it take from the start of the investigation to the end of the consent decree? ",
+    "follow": "The first Federal Trade Commission investigation began in 1990. The antitrust case was filed in 1998, and the DOJ and Microsoft settled in 2002. The consent decree governing Microsoft’s conduct expired in 2011.",
     "caption": "John Pinette, left, and Microsoft founder Bill Gates arrive at the federal courthouse in Salt Lake City in 2011 to testify in a $1 billion private antitrust lawsuit filed by the creator of WordPerfect. ",
     "photographer": "Jim Urquhart / AP",
     "credit": "x",
@@ -46,7 +46,7 @@
   {
     "id": 6,
     "question": "Marijuana stocks such as Tilray, the British Columbia company controlled by Seattle’s Privateer Holdings, had an exciting 2019 that brought:",
-    "follow": "Tilray shares started 2017 at $70 and entered December at $20. Industrywide, Bloomberg reported, cannabis stocks suffered a 60% decline through November.  \n",
+    "follow": "Tilray shares started 2019 at about $70 and entered December at around $20. Industrywide, Bloomberg reported, cannabis stocks suffered a 60% decline through November.  \n",
     "caption": "A mature marijuana plant beginning to bloom under artificial lights at Loving Kindness Farms in Gardena, Calif. ",
     "photographer": "Richard Vogel / AP",
     "credit": "x",
@@ -71,11 +71,12 @@
   },
   {
     "id": 9,
-    "question": "Delta Air Lines plans to use a controversial new technology with passengers on international flights departing Seattle-Tacoma International Airport. What’s the technology?\n",
-    "follow": "Delta, in partnership with U.S. Customs and Border Protection, plans to give travelers leaving for international destinations the option of having their faces scanned rather than handing over a passport and boarding pass in order to board a plane.",
+    "question": "The Port of Seattle Commission in December put a temporary halt on Delta Air Lines’ plans to use a controversial technology with passengers on international flights departing Seattle-Tacoma International Airport. What’s the technology?",
+    "follow": "Delta, in partnership with U.S. Customs and Border Protection, had planned to give travelers leaving for international destinations the option of having their faces scanned rather than handing over a passport and boarding pass in order to board a plane. Citing civil liberties concerns, the commission enacted a moratorium on facial recognition and other biometric technologies until it could develop policies governing their use, a task that has eluded state and federal lawmakers.\n\n",
     "caption": "TSA agents check passengers' boarding passes and identification at Seattle-Tacoma International Airport.",
     "photographer": "Ted S. Warren / AP",
-    "credit": "x"
+    "credit": "x",
+    "link1": "https://www.seattletimes.com/business/boeing-aerospace/sea-tac-is-first-airport-to-resist-federal-push-for-facial-recognition-and-other-biometric-technologies/"
   },
   {
     "id": 10,
@@ -83,7 +84,7 @@
     "caption": "Voters put their ballots into a King County drop box on Election Day. ",
     "photographer": "Bettina Hansen / The Seattle Times",
     "credit": "Bettina Hansen / The Seattle Times",
-    "link1": "https://www.seattletimes.com/seattle-news/politics/seattles-business-lobby-sees-opportunity-to-unseat-the-city-councils-progressive-majority/"
+    "link1": "https://www.seattletimes.com/business/boeing-aerospace/boeing-will-halt-renton-assembly-lines-but-no-layoffs-for-employees/"
   },
   {
     "id": 11,
@@ -92,7 +93,7 @@
     "caption": "Newly built Boeing 737 MAX airplanes are parked near the Renton factory while the jet is grounded.",
     "photographer": "Mike Siegel / The Seattle Times",
     "credit": "x",
-    "link1": "https://www.seattletimes.com/business/boeing-aerospace/boeing-will-lower-737-production-rate-but-says-no-layoffs/"
+    "link1": "https://www.seattletimes.com/business/boeing-aerospace/boeing-will-halt-renton-assembly-lines-but-no-layoffs-for-employees/"
   },
   {
     "id": 12,

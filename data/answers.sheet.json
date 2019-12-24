@@ -18,8 +18,7 @@
   },
   {
     "id": 2,
-    "answer": "Ten years",
-    "correct": "\n"
+    "answer": "Ten years"
   },
   {
     "id": 2,
@@ -40,7 +39,7 @@
   },
   {
     "id": 3,
-    "answer": "2 times",
+    "answer": "2.3 times",
     "correct": "x"
   },
   {
@@ -66,20 +65,20 @@
   },
   {
     "id": 5,
-    "answer": "Assembling the massive 777X wings in Everett"
+    "answer": "Assemble the massive 777X wings in Everett"
   },
   {
     "id": 5,
-    "answer": "Installing thousands of fasteners in the 777 fuselage in Everett",
+    "answer": "Install tens of thousands of fasteners in the 777 fuselage in Everett",
     "correct": "x"
   },
   {
     "id": 5,
-    "answer": "Putting together 737 MAX wing panels to increase the production rate in Renton"
+    "answer": "Put together 737 MAX wing panels to increase the production rate in Renton"
   },
   {
     "id": 5,
-    "answer": "Assembling 737 MAX fuselages at Boeing’s Wichita supplier, Spirit AeroSystems"
+    "answer": "Assemble 737 MAX fuselages at Boeing’s Wichita supplier, Spirit AeroSystems"
   },
   {
     "id": 6,
@@ -104,7 +103,7 @@
   },
   {
     "id": 7,
-    "answer": "19,345 - 19% fewer than the same time last year",
+    "answer": "19,345 – 19% fewer than the same time last year",
     "correct": "x"
   },
   {
